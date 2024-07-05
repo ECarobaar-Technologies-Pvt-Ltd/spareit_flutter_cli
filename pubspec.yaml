@@ -1,7 +1,9 @@
 name: spareit_flutter_cli
 description: Flutter CLI for SpareIT
+maintainer: ECarobaar Technologies Pvt Ltd (Abdul Zelani)
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/ECarobaar-Technologies-Pvt-Ltd/spareit_flutter_cli
+homepage: https://spareit.co.in
 
 environment:
   sdk: ^3.1.2
